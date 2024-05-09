@@ -1,5 +1,4 @@
 # ResturantTest
 Restaurant Template used to experiment and understand html / css
 
-Unsure of how certain things work, will need to look over.
-Need to implement Javascript as well as fixing certain alignments and adding features
+Primarily made as an inside joke amongst friends at a young age. Don't look into the product names too much :P
